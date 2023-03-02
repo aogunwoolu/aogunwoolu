@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abisade</h1>
+<img src="https://raw.githubusercontent.com/aogunwoolu/aogunwoolu/master/.github/images/Hi%20%F0%9F%91%8B%2C%20I'm%20Abisade.png" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B001D9&width=435&lines=DevOps+Engineer+at+Sky;Passionate+about+anime;Likes+blockchain%2C+AI%2C+and+full-stack+web+development" alt="Typing SVG" /></a>
 
