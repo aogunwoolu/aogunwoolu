@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abisade</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B001D9&center=true&vCenter=true&width=435&lines=DevOps+Engineer+at+Sky;Passionate+about+anime;Likes+blockchain%2C+AI%2C+and+full-stack+web+development" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aogunwoolu&label=Profile%20views&color=0e75b6&style=flat" alt="aogunwoolu" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B001D9&width=435&lines=DevOps+Engineer+at+Sky;Passionate+about+anime;Likes+blockchain%2C+AI%2C+and+full-stack+web+development" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B001D9&width=435&lines=DevOps+Engineer+at+Sky;Passionate+about+anime;Likes+blockchain%2C+AI%2C+and+full-stack+web+development" alt="Typing SVG" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=aogunwoolu&label=Profile%20views&color=0e75b6&style=flat" alt="aogunwoolu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aogunwoolu" alt="aogunwoolu" /></a> </p>
 
