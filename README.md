@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abisade</h1>
-<h3 align="center">DevOps Engineer at Sky, passionate about anime, blockchain, AI, and full-stack web development!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B001D9&center=true&vCenter=true&width=435&lines=DevOps+Engineer+at+Sky;Passionate+about+anime;Likes+blockchain%2C+AI%2C+and+full-stack+web+development)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aogunwoolu&label=Profile%20views&color=0e75b6&style=flat" alt="aogunwoolu" /> </p>
 
