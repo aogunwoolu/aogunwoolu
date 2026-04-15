@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/aogunwoolu/aogunwoolu/master/.github/images/Hi%20%F0%9F%91%8B%2C%20I'm%20Abisade.png" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&width=435&lines=DevOps+Engineer+at+Sky;Passionate+about+anime;Likes+blockchain%2C+AI%2C+and+full-stack+web+development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=7F3ACE&width=435&lines=Platform+Engineer;Passionate+about+automation;Always+looking+to+help!;Knowledge+sharing+advocate" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/aogunwoolu/aogunwoolu/master/.github/images/about_bash.png" alt="about bash" />
 
