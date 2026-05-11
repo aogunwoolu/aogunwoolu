@@ -5,6 +5,6 @@
 <img src="https://raw.githubusercontent.com/aogunwoolu/aogunwoolu/master/.github/images/about_bash.png" alt="about bash" />
 
 <div style="display:flex">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aogunwoolu&theme=midnight-purple&show_icons=true&locale=en" alt="aogunwoolu" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aogunwoolu&hide_progress=true&theme=midnight-purple&" alt="aogunwoolu" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-ten-mu-88.vercel.app/api?username=aogunwoolu&theme=midnight-purple&show_icons=true&locale=en" alt="aogunwoolu" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-ten-mu-88.vercel.app/api/top-langs/?username=aogunwoolu&hide_progress=true&theme=midnight-purple&" alt="aogunwoolu" /></p>
 </div>
